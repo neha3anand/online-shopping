@@ -3,6 +3,62 @@
  * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-shop-homepage/blob/master/LICENSE)
  */
+html {
+	height: 100%;
+}
+
 body {
-  padding-top: 56px;
+	padding-top: 70px;
+	height: 100%;
+}
+
+.slide-image {
+	width: 100%;
+}
+
+.carousel-holder {
+	margin-bottom: 30px;
+}
+
+.caption h4 {
+	white-space: nowrap;
+}
+
+.thumbnail img {
+	padding-right: 10px;
+	padding-left: 10px;
+	color: #d17581;
+}
+
+.thunbnail {
+	padding: 0;
+}
+
+.thumbnail .caption-full {
+	
+}
+
+.thumbnail .caption-full {
+	
+}
+
+.wrapper {
+	min-height: 100%;
+	position: relative;
+}
+
+.content {
+	padding-bottom: 60px;
+}
+
+.footer {
+	position: bottom;
+	bottom: 15px;
+	height: 60px;
+}
+
+.dataTableImg {
+	width: 100px;
+	height: 20px;
+}
 }
